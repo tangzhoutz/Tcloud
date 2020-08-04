@@ -1,12 +1,15 @@
+# 通知
+本项目仓库因为客观原因，停止维护，新仓库地址：https://github.com/JunManYuanLong/Tcloud
+
 # tcloud-vue
 
 感觉项目不错的点个star，你的支持是我们源源不断的动力~谢谢！如有疑问，可联系QQ群：839084842，欢迎提issue
 
 
 ## 后端传送门：
-https://github.com/bigbaser/TcloudServer
+https://github.com/JunManYuanLong/TcloudServer
 
-## demo地址：
+## demo地址(不可用，请通过传送门访问新的仓库地址)：
 http://tcloud-demo.innotechx.com/#/login （账号：admin 密码：123456）
 
 ## 接口配置：
